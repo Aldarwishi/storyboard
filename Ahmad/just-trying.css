@@ -1,0 +1,64 @@
+label {
+    font-family: sans-serif;
+    font-size: 1rem;
+    padding-right: 10px;
+  }
+  
+  select {
+    font-size: 0.9rem;
+    padding: 2px 5px;
+  }
+.ranking {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 300px;
+    width: 840px;
+    height: 80px;
+    margin-left: 300px;
+}
+.one {
+    width: 480px;
+    height: 25px;
+    background-color: rgb(204, 204, 204);
+    border: none;
+    text-align: center;
+    padding-left: 10px;
+}
+.ranking {
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: rgb(137, 133, 133);
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+}
+.material-symbols-outlined:hover {
+    background-color: rgb(220, 213, 213);
+    display: inline-block;
+}
+.material-symbols-outlined {
+    padding-top: 3px;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.two {
+    width: 50px;
+    height: 100px;
+    color: white;
+}
+.three {
+    padding-left: 10px;
+    display: inline-block;
+}
+.four {
+    padding: 15px;
+}
+
