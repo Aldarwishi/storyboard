@@ -1,0 +1,39 @@
+body{
+    background-color:#011C2A;
+}
+
+.num1{
+/* border-radius: 3px red; */
+width: 35px;
+
+
+}
+.num2{
+/* border-radius: 3px red; */
+width: 35px;
+
+
+
+}
+.elzero{
+margin-left: 650px;
+margin-top: -7.5%;
+border: 2px  solid;
+margin-right: 43%;
+height: 35px;
+}
+div{
+    background-color: #3c484e;
+    margin-top: 360px;
+    height: 200px;
+    border-radius: 20px ;
+}
+#sub{
+
+
+background-color: aquamarine;
+width: 540px;
+height: 40px;
+margin: 100px ;
+
+}
